@@ -1,5 +1,5 @@
 
-<img alt="Daurin" src="https://drive.google.com/file/d/1kkcnG3MDmCbjRDXLSZOiCNkIP2A95jZk/view?usp=sharing" width='40' align="center"/><h2>¡HOLA A TODOS! SOY DAURIN</h2>
+<img alt="Daurin" src="https://imgur.com/a/vdca2g3" width='40' align="center"/><h2>¡HOLA A TODOS! SOY DAURIN</h2>
 
 <!-- ## 👋 &nbsp;¡HOLA A TODOS! SOY DAURIN -->
 
