@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp; SOBRE MI
 <div align="justify">
-<ul text-decoration="none">
+<ul list-style="none">
 <li> 💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables y mantenibles. </li>
 <li> 🎓 &nbsp; Actualmente estoy en mi antepenúltimo cuatrimestre en el Tecnólogo en <strong>Desarrollo de Software</strong> en el ITLA. </li>
 <li> 🌐 &nbsp; Desarrollador especializado en React.js con un fuerte interés en la creación de páginas web innovadoras y funcionales.</li>
