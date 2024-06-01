@@ -17,6 +17,10 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🌐 &nbsp; MIS PROYECTOS
+<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"> &nbsp; OdetteTrend</a>
+<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"> &nbsp; RouteToCode</a>
+
 ### 🌐 &nbsp; FRONTEND
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html"></img>
@@ -27,7 +31,7 @@
 ### 👨‍💻 &nbsp; BACKEND
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"></img>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></img>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"></img>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySql"></img>
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JsonWebToken"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SqlServer"></img>
 
@@ -35,10 +39,10 @@
 💡 &nbsp; Arquitectura Limpia.\
 💡 &nbsp; Principios Solid.\
 💡 &nbsp; Patron Repositorio.\
+💡 &nbsp; Figma\
 💡 &nbsp; GitHub.\
 
 ### 🤝🏻 &nbsp; SOCIAL
-
 <p align="center">
 <a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.link/bi55m8"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
