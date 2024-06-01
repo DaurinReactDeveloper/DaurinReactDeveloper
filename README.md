@@ -5,6 +5,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp; SOBRE MI
+<div align="justify">
 💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables y mantenibles.\
 🎓 &nbsp; Actualmente estoy en mi antepenúltimo cuatrimestre en el Tecnólogo en <strong>Desarrollo de Software</strong> en el ITLA.\
 🌐 &nbsp; Desarrollador especializado en React.js con un fuerte interés en la creación de páginas web innovadoras y funcionales.\
@@ -14,7 +15,7 @@
 💬 &nbsp; No dudes en contactarme para consultas pro bono, voluntariado o simplemente para tener una conversación interesante.\
 ✉️ &nbsp; Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.\
 📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.
-
+</dvi>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
