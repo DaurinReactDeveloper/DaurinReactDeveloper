@@ -18,13 +18,13 @@
 
 ### 💻 &nbsp; MIS PROYECTOS
 <p>
-  <a href="https://grand-sopapillas-57134f.netlify.app/" target="_blank">
+  <a href="https://grand-sopapillas-57134f.netlify.app/">
 🛒 OdetteTrend
   </a>
 </p>
 
 <p>
-<a href="..." target="_blank">
+<a href="...">
 📝 RouteToCode
 </a>
 </p>
