@@ -5,15 +5,15 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp; SOBRE MI
-💡 &nbsp;Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables y mantenibles.
-🎓 &nbsp;Actualmente estoy en mi antepenúltimo cuatrimestre en el Tecnólogo en <strong>Desarrollo de Software</strong> en el ITLA (Instituto Tecnológico de Las Américas).
-🌐 &nbsp;Desarrollador especializado en React.js con un fuerte interés en la creación de páginas web innovadoras y funcionales.
-💻 &nbsp;Trabajo como freelancer, colaborando en proyectos variados y desafiantes. Puedes ver algunos de mis trabajos en mis repositorios.
-🌱 &nbsp;Siempre en busca de aprender y mejorar mis habilidades, especialmente en el desarrollo frontend y nuevas tecnologías web.
-✍️ &nbsp;En mi tiempo libre, disfruto desarrollando páginas web y experimentando con nuevas ideas de diseño y funcionalidad.
-💬 &nbsp;No dudes en contactarme para consultas pro bono, voluntariado o simplemente para tener una conversación interesante sobre tecnología.
-✉️ &nbsp;Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.
-📄 &nbsp;Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi Currículum. Estoy abierto a comentarios y sugerencias.
+💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables y mantenibles.
+🎓 &nbsp; Actualmente estoy en mi antepenúltimo cuatrimestre en el Tecnólogo en <strong>Desarrollo de Software</strong> en el ITLA (Instituto Tecnológico de Las Américas).
+🌐 &nbsp; Desarrollador especializado en React.js con un fuerte interés en la creación de páginas web innovadoras y funcionales.
+💻 &nbsp; Trabajo como freelancer, colaborando en proyectos variados y desafiantes. Puedes ver algunos de mis trabajos en mis repositorios.
+🌱 &nbsp; Siempre en busca de aprender y mejorar mis habilidades, especialmente en el desarrollo frontend y nuevas tecnologías web.
+✍️ &nbsp; En mi tiempo libre, disfruto desarrollando páginas web y experimentando con nuevas ideas de diseño y funcionalidad.
+💬 &nbsp; No dudes en contactarme para consultas pro bono, voluntariado o simplemente para tener una conversación interesante sobre tecnología.
+✉️ &nbsp; Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.
+📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi Currículum. Estoy abierto a comentarios y sugerencias.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
