@@ -19,13 +19,15 @@
 
 ### 💻 &nbsp; MIS PROYECTOS
 <p>
-  <a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"></a>
- 📝 OdetteTrend
+  <a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/">
+🛒 OdetteTrend
+  </a>
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"></a>
-   🛒 RouteToCode
+<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/">
+📝 RouteToCode
+</a>
 </p>
 
 ### 🌐 &nbsp; FRONTEND
