@@ -13,7 +13,7 @@
 ✍️ &nbsp; En mi tiempo libre, disfruto desarrollando páginas web y experimentando con nuevas ideas de diseño y funcionalidad.\
 💬 &nbsp; No dudes en contactarme para consultas pro bono, voluntariado o simplemente para tener una conversación interesante.\
 ✉️ &nbsp; Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.\
-📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.\
+📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
