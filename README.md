@@ -17,9 +17,16 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🌐 &nbsp; MIS PROYECTOS
-<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"> &nbsp; OdetteTrend</a>
-<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"> &nbsp; RouteToCode</a>
+### 💻 &nbsp; MIS PROYECTOS
+<p>
+  <a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"></a>
+ 📝 OdetteTrend
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/dauringonzalezdeveloperweb/"></a>
+   RouteToCode
+</p>
 
 ### 🌐 &nbsp; FRONTEND
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
