@@ -48,7 +48,7 @@
 💡 &nbsp; Principios Solid.\
 💡 &nbsp; Patron Repositorio.\
 💡 &nbsp; Figma.\
-💡 &nbsp; GitHub.\
+💡 &nbsp; GitHub.
 
 ### 🤝🏻 &nbsp; SOCIAL
 <p align="center">
