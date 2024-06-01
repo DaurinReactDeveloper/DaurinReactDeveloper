@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp; SOBRE MI
 <div align="justify">
-<ul>
+<ul text-decoration="none">
 <li> 💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables y mantenibles. </li>
 <li> 🎓 &nbsp; Actualmente estoy en mi antepenúltimo cuatrimestre en el Tecnólogo en <strong>Desarrollo de Software</strong> en el ITLA. </li>
 <li> 🌐 &nbsp; Desarrollador especializado en React.js con un fuerte interés en la creación de páginas web innovadoras y funcionales.</li>
@@ -15,7 +15,7 @@
 <li> ✍️ &nbsp; En mi tiempo libre, disfruto desarrollando páginas web y experimentando con nuevas ideas de diseño y funcionalidad.</li>
 <li> 💬 &nbsp; No dudes en contactarme para consultas pro bono, voluntariado o simplemente para tener una conversación interesante.</li>
 <li> ✉️ &nbsp; Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.</li>
-<li> 🌱 📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.</li>
+<li> 📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.</li>
 </ul>
 </dvi>
 
