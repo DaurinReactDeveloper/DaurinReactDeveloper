@@ -18,18 +18,17 @@
 
 ### 💻 &nbsp; MIS PROYECTOS
 <div>
-  <a href="https://grand-sopapillas-57134f.netlify.app/">
-🛒 OdetteTrend
-  </a>
-<br></br>
- <a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">REPOSITORIO DE ESTE PROYECTO(FRONTEND)</a>
+<a href="https://grand-sopapillas-57134f.netlify.app/">🛒 OdetteTrend </a>
+<a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">Repositorio del Frontend</a>
+<a href="https://github.com/DaurinReactDeveloper/BackendOdetteTrend">Repositorio del Backend</a>
 </div>
 
-<p>
-<a href="...">
-📝 RouteToCode
-</a>
-</p>
+<div>
+<a href="....">📝 RouteToCode</a>
+<a href="...">Repositorio del Frontend</a>
+<a href="...">Repositorio del Backend</a>
+</div>
+
 
 ### 🌐 &nbsp; FRONTEND
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
