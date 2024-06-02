@@ -24,9 +24,9 @@
 </div>
 
 <div>
-<a href="....">📝 RouteToCode</a>
-<a href="...">Repositorio del Frontend</a>
-<a href="...">Repositorio del Backend</a>
+<p><a href="...">📝 RouteToCode</a></p>
+<p><a href="...">Repositorio del Frontend</a></p>
+<p><a href="...">Repositorio del Backend</a></p>
 </div>
 
 
