@@ -21,6 +21,7 @@
   <a href="https://grand-sopapillas-57134f.netlify.app/">
 🛒 OdetteTrend
   </a>
+ <a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">REPOSITORIO DE ESTE PROYECTO(FRONTEND)</a>
 </p>
 
 <p>
