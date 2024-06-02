@@ -17,12 +17,13 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 💻 &nbsp; MIS PROYECTOS
-<p>
+<div>
   <a href="https://grand-sopapillas-57134f.netlify.app/">
 🛒 OdetteTrend
   </a>
+<br></br>
  <a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">REPOSITORIO DE ESTE PROYECTO(FRONTEND)</a>
-</p>
+</div>
 
 <p>
 <a href="...">
