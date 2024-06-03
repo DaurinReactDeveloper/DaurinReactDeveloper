@@ -14,8 +14,6 @@
 ✉️ &nbsp; Puedes enviarme un correo a dauringonzales7@gmail.com. Intentaré responder lo antes posible.\
 📄 &nbsp; Para más detalles sobre mi experiencia y habilidades, por favor, echa un vistazo a mi <strong>Currículum</strong>.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 💻 &nbsp; MIS PROYECTOS
 <div>
 <img src='https://i.imgur.com/KJNdGeL.png'></img>
