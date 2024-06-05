@@ -17,7 +17,7 @@
 ### 💻 &nbsp; MIS PROYECTOS
 <div>
 <img src='https://i.imgur.com/KJNdGeL.png'></img>
-<p><a href="https://grand-sopapillas-57134f.netlify.app/">🛒 OdetteTrend </a></p>
+<p><a href="https://odettetrend.netlify.app/">🛒 OdetteTrend </a></p>
 <p><a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">Repositorio del Frontend</a></p>
 <p><a href="https://github.com/DaurinReactDeveloper/BackendOdetteTrend">Repositorio del Backend</a></p>
 </div>
