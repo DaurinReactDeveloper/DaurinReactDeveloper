@@ -29,6 +29,12 @@
 <p><a href="https://github.com/DaurinReactDeveloper/FrontendRouteToCode/tree/dev">Repositorio del Backend</a></p>
 </div>
 
+<div>
+<img src='https://i.imgur.com/30uMsG9.png'></img>
+<p><a href="https://routetocode.netlify.app">📝 DaurinBarbershop</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/FrontendGestorBarberia">Repositorio del Frontend</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/GestorBarberia">Repositorio del Backend</a></p>
+</div>
 
 ### 🌐 &nbsp; FRONTEND
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
