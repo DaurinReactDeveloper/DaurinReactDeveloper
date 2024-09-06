@@ -33,7 +33,7 @@
 <img src='https://i.imgur.com/30uMsG9.png'></img>
 <p><a href="https://daurinbarbershop.netlify.app">💈 DaurinBarbershop</a></p>
 <p><a href="https://github.com/DaurinReactDeveloper/FrontendGestorBarberia">Repositorio del Frontend</a></p>
-<p><a href="https://github.com/DaurinReactDeveloper/GestorBarberia">Repositorio del Backend</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/BackendGestorBarberia">Repositorio del Backend</a></p>
 </div>
 
 ### 🌐 &nbsp; FRONTEND
