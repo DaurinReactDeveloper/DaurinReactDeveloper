@@ -26,7 +26,7 @@
 <img src='https://i.imgur.com/IcDEw8t.png'></img>
 <p><a href="https://routetocode.netlify.app">📝 RouteToCode</a></p>
 <p><a href="https://github.com/DaurinReactDeveloper/RouteToCode/tree/dev">Repositorio del Frontend</a></p>
-<p><a href="https://github.com/DaurinReactDeveloper/FrontendRouteToCode/tree/dev">Repositorio del Backend</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/BackendRouteToCode">Repositorio del Backend</a></p>
 </div>
 
 <div>
