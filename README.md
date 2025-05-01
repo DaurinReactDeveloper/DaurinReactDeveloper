@@ -16,6 +16,13 @@
 
 ### 💻 &nbsp; MIS PROYECTOS
 <div>
+<img src="https://res.cloudinary.com/dret6llu8/image/upload/v1746134116/ag3i6xpb5iovryclvqcg.png"></img>
+<p><a href="https://techtalesdg.netlify.app">📚 TechTales – Historias y Aprendizajes sobre Tecnología y Desarrollo</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/TechtalesFrontend">Repositorio del Frontend</a></p>
+<p><a href="https://github.com/DaurinReactDeveloper/TechtalesBackend">Repositorio del Backend</a></p>
+</div>
+
+<div>
 <img src='https://i.imgur.com/30uMsG9.png'></img>
 <p><a href="https://daurinbarbershop.netlify.app">💈 DaurinBarbershop</a></p>
 <p><a href="https://github.com/DaurinReactDeveloper/GestorBarberiaFrontend">Repositorio del Frontend</a></p>
