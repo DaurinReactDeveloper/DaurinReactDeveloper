@@ -1,6 +1,11 @@
 <img alt="Daurin" src="https://i.imgur.com/uZEiPbx.png" align="center"/>
 
-<h2>¡HOLA A TODOS! SOY DAURIN</h2>
+<div style="text-align: center; padding: 20px; background: linear-gradient(to right, #6a11cb, #2575fc); color: white; border-radius: 10px;">
+  <h2 style="font-family: 'Arial', sans-serif; font-size: 36px; font-weight: bold; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+    ¡HOLA A TODOS! SOY DAURIN
+  </h2>
+  <p style="font-size: 18px; font-family: 'Arial', sans-serif;">Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.</p>
+</div>
 
 ### 👨🏻‍💻 &nbsp; SOBRE MÍ
 💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables, innovadoras y mantenibles.  
