@@ -11,7 +11,7 @@
 💡 &nbsp; Apasionado por la exploración de nuevas tecnologías y la creación de soluciones de software escalables, innovadoras y mantenibles.  
 🎓 &nbsp; Esperando la proxima convocatoria de graduacion para obtener el titulo de Tecnólogo en <strong>Desarrollo de Software</strong> en el <strong>ITLA</strong>.  
 🌐 &nbsp; Desarrollador enfocado en <strong>React.js</strong> y el ecosistema frontend moderno, con experiencia en proyectos reales.  
-💻 &nbsp; Trabajo como freelancer y he desarrollado plataformas web con autenticación, consumo de APIs, almacenamiento en la nube y diseño UI/UX.  
+💻 &nbsp; Por el momento trabajo como freelancer y he desarrollado plataformas web con autenticación, consumo de APIs, almacenamiento en la nube y diseño UI/UX.  
 🚀 &nbsp; Experiencia integrando herramientas como <strong>Firebase</strong>, <strong>Cloudinary</strong>, <strong>Google Auth</strong> y <strong>SMTP Email</strong>.  
 🧪 &nbsp; Interesado también en buenas prácticas backend usando <strong>.NET</strong>, <strong>arquitectura limpia</strong>, y pruebas unitarias con <strong>XUnit</strong> y <strong>Moq</strong>.  
 ✍️ &nbsp; En mi tiempo libre, disfruto experimentar con nuevas ideas de diseño y funcionalidades que mejoren la experiencia del usuario.  
