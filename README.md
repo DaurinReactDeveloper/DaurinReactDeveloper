@@ -43,13 +43,6 @@
      <a href="https://github.com/DaurinReactDeveloper/RouteToCodeBackend">Backend</a></p>
 </div>
 
-<div>
-  <img src='https://i.imgur.com/KJNdGeL.png' alt="OdetteTrend">
-  <p><a href="https://odettetrend.netlify.app/">🛒 OdetteTrend</a></p>
-  <p><a href="https://github.com/DaurinReactDeveloper/FrontendOdettetrend">Frontend</a> | 
-     <a href="https://github.com/DaurinReactDeveloper/BackendOdetteTrend">Backend</a></p>
-</div>
-
 ---
 
 ### 🌐 &nbsp; FRONTEND
