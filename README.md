@@ -32,7 +32,7 @@
 <div>
   <img src='https://i.imgur.com/30uMsG9.png' alt="DaurinBarbershop">
   <p><a href="https://daurinbarbershop.netlify.app">💈 DaurinBarbershop</a></p>
-  <p><a href="https://github.com/DaurinReactDeveloper/GestorBarberiaFrontend">Frontend</a> | 
+  <p><a href="https://github.com/DaurinReactDeveloper/DaurinBarbershopFrontend">Frontend</a> | 
      <a href="https://github.com/DaurinReactDeveloper/DaurinBarbershopBackend">Backend</a></p>
 </div>
 
