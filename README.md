@@ -1,7 +1,4 @@
-<img alt="Daurin" src="https://i.imgur.com/uZEiPbx.png" align="center"/>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="dwph3Nx"><a href="https://imgur.com/dwph3Nx">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img alt="Daurin" src="https://i.imgur.com/dwph3Nx_d.png" align="center"/> 
 
 <div style="text-align: center; padding: 20px; background: linear-gradient(to right, #6a11cb, #2575fc); color: white; border-radius: 10px;">
   <h2 style="font-family: 'Arial', sans-serif; font-size: 36px; font-weight: bold; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
